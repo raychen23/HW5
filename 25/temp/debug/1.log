@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\hsura\onedrive\桌面\hw5\25\resource\main.c(20): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\hsura\onedrive\桌面\hw5\25\resource\main.c(63): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\users\hsura\onedrive\桌面\hw5\25\resource\main.c(63): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 3 個
+  1.vcxproj -> C:\Users\hsura\OneDrive\桌面\HW5\25\1\1\..\..\temp\debug\1.exe
